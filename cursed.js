@@ -5,6 +5,7 @@ const figlet = require("figlet");
 const cowsay = require("cowsay");
 const axios = require("axios");
 const rename = require("./rename.js");
+rename()
 
 console.log(chalk.red(figlet.textSync("CURSED.JS", { horizontalLayout: "full" })));
 

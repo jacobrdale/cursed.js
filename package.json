@@ -1,6 +1,6 @@
 {
   "name": "cursed.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "cursed.js",
   "scripts": {
     "test": "echo \"404\""
