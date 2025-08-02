@@ -1,0 +1,24 @@
+{
+  "name": "cursed.js",
+  "version": "0.1.1",
+  "main": "cursed.js",
+  "scripts": {
+    "test": "echo \"404\""
+  },
+  "bin": {
+    "cursed": "cursed.js"
+  },
+  "keywords": [
+    "hexon",
+    "cursed.js"
+  ],
+  "author": "hexon404",
+  "license": "HEX",
+  "description": "NANI",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "chalk": "^4.1.2",
+    "cowsay": "^1.6.0",
+    "figlet": "^1.8.2"
+  }
+}
